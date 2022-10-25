@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on `opensource projects`
 - 📫 How to reach me: https://www.linkedin.com/in/vincent-amstoutz/
 - ⚡ Personal: fan of many sports, travel, wine, food and especially good mood :smile:
-- :link: other links :
+- :link: Other links :
   - https://gitlab.com/vinceAmstoutz
   - https://stackoverflow.com/users/14632769/
