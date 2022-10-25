@@ -12,4 +12,4 @@
 - :link: Other links :
   - https://stackoverflow.com/users/14632769/
   - https://dev.to/vinceamstoutz 
-  - https://gitlab.com/vinceAmstoutz ( 🏫 school projects)
+  - https://gitlab.com/vinceAmstoutz (school projects)
