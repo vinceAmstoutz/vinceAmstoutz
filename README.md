@@ -10,5 +10,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/vincent-amstoutz/
 - ⚡ Personal: fan of many sports, travel, wine, food and especially good mood :smile:
 - :link: Other links :
-  - https://gitlab.com/vinceAmstoutz
   - https://stackoverflow.com/users/14632769/
+  - https://dev.to/vinceamstoutz 
+  - https://gitlab.com/vinceAmstoutz
