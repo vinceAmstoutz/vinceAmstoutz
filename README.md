@@ -1,5 +1,5 @@
 💻PHP/Symfony WEB Dev engineer, passionate of backend, tests, clean code, architecture & DevOPS.
-#### 🏆[Holopin](https://www.holopin.io/) verified achievements
+#### 🏆[Holopin](https://holopin.io/@vinceamstoutz) verified achievements
 [![@vinceamstoutz's Holopin board](https://holopin.me/vinceamstoutz)](https://holopin.io/@vinceamstoutz)
 #### ℹ️ More about me
 - 🔭 I’m currently working on `PHP/Symfony projects`
