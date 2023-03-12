@@ -3,8 +3,8 @@
 [![@vinceamstoutz's Holopin board](https://holopin.me/vinceamstoutz)](https://holopin.io/@vinceamstoutz)
 #### ℹ️ More about me
 - 🔭 I’m currently working on `PHP/Symfony projects`
-- 🌱 I’m currently learning `K8S, advanced tests, cloud & architecture`
-- 👯 I’m looking to collaborate on `opensource projects`
+- 🌱 I’m currently learning `advanced tests, design patterns, architecture & cloud`
+- 👯 I am currently collaborating on `opensource projects`
 - 📫 How to reach me:
   -    vincent.amstoutz.dev[at]gmail.com
   -    https://www.linkedin.com/in/vincent-amstoutz/
