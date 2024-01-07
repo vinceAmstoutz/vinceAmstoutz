@@ -16,10 +16,6 @@
   -    https://www.linkedin.com/in/vincent-amstoutz/
   -    https://twitter.com/vinceAmstoutz
 - ⚡ Personal: fan of many sports, travel, wine, food and especially good mood :smile:
-- :link: Other links :
-  - https://stackoverflow.com/users/14632769/
-  - https://dev.to/vinceamstoutz 
-  - https://gitlab.com/vinceAmstoutz (school projects)
 
 ### 📊Last year
 ![1000011144](https://github.com/vinceAmstoutz/vinceAmstoutz/assets/46444652/30246950-c796-46dc-9e6e-82c35b8e37a5)
