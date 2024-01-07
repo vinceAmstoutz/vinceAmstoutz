@@ -20,3 +20,6 @@
   - https://stackoverflow.com/users/14632769/
   - https://dev.to/vinceamstoutz 
   - https://gitlab.com/vinceAmstoutz (school projects)
+
+### 📊Last year
+![Uploading github-wrapped (1).png …]()
