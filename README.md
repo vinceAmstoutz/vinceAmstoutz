@@ -2,9 +2,10 @@
 #### 🏆[Holopin](https://holopin.io/@vinceamstoutz) verified achievements
 [![@vinceamstoutz's Holopin board](https://holopin.me/vinceamstoutz)](https://holopin.io/@vinceamstoutz)
 
-![](https://api.githubtrends.io/user/svg/vinceAmstoutz/repos?time_range=one_year&include_private=True&theme=classic)
+![2023 most used dev languages](https://api.githubtrends.io/user/svg/vinceAmstoutz/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)
 
-![](https://api.githubtrends.io/user/svg/vinceAmstoutz/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)
+![2023 most contributed repos](https://api.githubtrends.io/user/svg/vinceAmstoutz/repos?time_range=one_year&include_private=True&theme=classic)
+
 
 #### ℹ️ More about me
 - 🔭 I’m currently working on `PHP/Symfony projects`
