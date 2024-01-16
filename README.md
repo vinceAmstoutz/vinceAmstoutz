@@ -4,9 +4,6 @@
 
 ![2023 most used dev languages](https://api.githubtrends.io/user/svg/vinceAmstoutz/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)
 
-![2023 most contributed repos](https://api.githubtrends.io/user/svg/vinceAmstoutz/repos?time_range=one_year&include_private=True&theme=classic)
-
-
 #### ℹ️ More about me
 - 🔭 I’m currently working on `PHP/Symfony projects`
 - 🌱 I’m currently learning `advanced tests, design patterns, architecture & cloud`
