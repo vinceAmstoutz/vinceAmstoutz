@@ -2,7 +2,7 @@
 
 #### ℹ️ About me 
 - 🔭 I’m currently working on `PHP/Symfony projects`
-- 👯 I am currently collaborating on `opensource projects` like symfony, sulu, afup, gogs.
+- 👯 I am currently collaborating on `opensource projects` like symfony, sulu, afup, gogs & maintainer on sigedi/jasper-report-bundle.
 - 📫 How to reach me:
   -    vincent.amstoutz.dev[at]gmail.com
   -    https://www.linkedin.com/in/vincent-amstoutz/
