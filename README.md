@@ -1,5 +1,7 @@
 💻PHP/Symfony WEB Dev engineer, passionate about  Softaware craftmanship, backend, clean code, architecture & DevOPS.
+
 I'm collaborating on `open-source projects` like Symfony Docs, Sulu, Afup website and Gogs.
+
 I’m currently working mainly on `PHP/Symfony projects`
 
 #### 📚 Recently read books
