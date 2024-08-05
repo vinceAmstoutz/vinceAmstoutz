@@ -15,7 +15,8 @@ I’m currently working mainly on `PHP/Symfony projects`
 #### 📚 Next & current readings
 - Clean Code in PHP - By Carsten Windler & Alexandre Daubois (**In progress**)
 - Software Craft - TDD, Clean Code & other essential practices - By C. Martaire, A. Thiéfaine, D. Bartaguiz, F. Hiegel & H. Fakiih
-- Implementing Domain-Driven Design - by Vaughn Vernon & Eric Evans
+- NoEstimates: How To Measure Project Progress Without Estimating - By Vasco Duarte
+- Implementing Domain-Driven Design - By Vaughn Vernon & Eric Evans
 - Refactoring to Patterns - By Joshua Kerievsky
 - Refactoring: Improving the Design of Existing Code - By Martin Fowler
 - Test driven development - By Kent Beck
