@@ -16,6 +16,12 @@ I’m currently working mainly on `PHP/Symfony projects`
 - Clean Code in PHP - By Carsten Windler & Alexandre Daubois (**In progress**)
 - Software Craft - TDD, Clean Code & other essential practices - By C. Martaire, A. Thiéfaine, D. Bartaguiz, F. Hiegel & H. Fakiih
 - Implementing Domain-Driven Design - by Vaughn Vernon & Eric Evans
+- Refactoring to Patterns - By Joshua Kerievsky
+- Refactoring: Improving the Design of Existing Code - By Martin Fowler
+- Test driven development - By Kent Beck
+- Domain-Driven Design: Tackling Complexity in the Heart of Software - By Eric Evans
+- Design Patterns: Elements of Reusable Object-Oriented Software - By Erich Gamma, Richard Helm & Ralph Johnson
+- Clean Code: A Handbook of Agile Software Craftsmanship - By Robert C. Martin
 - Functional & reactive domain modeling - By Jonas Bonér
 - Modern C++ Programming with Test-Driven Development - ByJeff Langr
 - The Lean Startup - By Eric Ries
