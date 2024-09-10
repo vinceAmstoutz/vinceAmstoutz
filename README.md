@@ -13,7 +13,7 @@ I’m currently working mainly on `PHP/Symfony projects`
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - By Jake Knapp, John Zeratsky & Braden Kowitz 
 - The Mom Test - By Rob Fitzpatrick
 
-- #### 📚📶 Current reading
+#### 📚📶 Current reading
 - Software Craft - TDD, Clean Code & other essential practices - By C. Martaire, A. Thiéfaine, D. Bartaguiz, F. Hiegel & H. Fakiih (**In progress**)
 
 #### 📚 Next & current readings
@@ -22,6 +22,7 @@ I’m currently working mainly on `PHP/Symfony projects`
 - Implementing Domain-Driven Design - By Vaughn Vernon & Eric Evans
 - Refactoring to Patterns - By Joshua Kerievsky
 - Refactoring: Improving the Design of Existing Code - By Martin Fowler
+- Growing Object-Oriented Software, Guided by Tests - By Steve Freeman & Nat Pryce
 - Domain-Driven Design: Tackling Complexity in the Heart of Software - By Eric Evans
 - Design Patterns: Elements of Reusable Object-Oriented Software - By Erich Gamma, Richard Helm & Ralph Johnson
 - Clean Code: A Handbook of Agile Software Craftsmanship - By Robert C. Martin
