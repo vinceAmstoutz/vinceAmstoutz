@@ -16,7 +16,7 @@ I’m currently working mainly on `PHP/Symfony projects`
 #### 📚📶 Current reading
 - Software Craft - TDD, Clean Code & other essential practices - By C. Martaire, A. Thiéfaine, D. Bartaguiz, F. Hiegel & H. Fakiih (**In progress**)
 
-#### 📚 Next & current readings
+#### 📚 Next readings
 - NoEstimates: How To Measure Project Progress Without Estimating - By Vasco Duarte
 - Test driven development by Example - By Kent Beck
 - Implementing Domain-Driven Design - By Vaughn Vernon & Eric Evans
