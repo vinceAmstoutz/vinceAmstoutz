@@ -4,7 +4,7 @@ I'm collaborating on `open-source projects` like Symfony Docs, Sulu, Afup websit
 
 I’m currently working mainly on `PHP/Symfony projects`
 
-#### 📚 Recently read books
+#### 📚🆕 Recently read books
 - Clean Code in PHP - By Carsten Windler & Alexandre Daubois
 - Rector the power of automated refactoring - By Matthias Noback & Tomas Votruba
 - Dive Into DESIGN PATTERNS - by Refactoring Guru
@@ -13,10 +13,10 @@ I’m currently working mainly on `PHP/Symfony projects`
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - By Jake Knapp, John Zeratsky & Braden Kowitz 
 - The Mom Test - By Rob Fitzpatrick
 
-#### 📚📶 Current reading
+#### 📚📶⏳ Current reading
 - Software Craft - TDD, Clean Code & other essential practices - By C. Martaire, A. Thiéfaine, D. Bartaguiz, F. Hiegel & H. Fakiih (**In progress**)
 
-#### 📚 Next readings
+#### 📚🕰️ Next readings
 - NoEstimates: How To Measure Project Progress Without Estimating - By Vasco Duarte
 - Test driven development by Example - By Kent Beck
 - Implementing Domain-Driven Design - By Vaughn Vernon & Eric Evans
