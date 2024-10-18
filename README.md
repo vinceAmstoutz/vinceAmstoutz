@@ -1,6 +1,6 @@
-💻PHP/Symfony WEB Dev engineer, passionate about  Softaware craftmanship, backend, clean code, architecture & DevOPS.
+💻PHP/Symfony WEB Dev engineer, passionate about  Software craftmanship, backend, clean code, architecture & DevOPS.
 
-I'm collaborating on `open-source projects` like Symfony Docs, Sulu, Afup website and Gogs.
+I'm collaborating on `open-source projects` like [API Platform]([url](https://api-platform.com/)), [Symfony]([url](https://symfony.com/)), [Sulu]([url](https://sulu.io/)), [AFUP website]([url](https://afup.org/home)) and some other projects.
 
 I’m currently working mainly on `PHP/Symfony projects`
 
@@ -18,7 +18,7 @@ I’m currently working mainly on `PHP/Symfony projects`
 
 #### 📚🕰️ Next readings
 - NoEstimates: How To Measure Project Progress Without Estimating - By Vasco Duarte
-- Test driven development by Example - By Kent Beck
+- Test-driven development by Example - By Kent Beck
 - Implementing Domain-Driven Design - By Vaughn Vernon & Eric Evans
 - Refactoring to Patterns - By Joshua Kerievsky
 - Refactoring: Improving the Design of Existing Code - By Martin Fowler
@@ -29,7 +29,7 @@ I’m currently working mainly on `PHP/Symfony projects`
 - Functional Programming in Scala, Second edition - By Michaal Pilquist, Paul Chiusano & Runar Bjarnasson
 - Functional & reactive domain modeling - By Jonas Bonér
 - Modern C++ Programming with Test-Driven Development - ByJeff Langr
-- Growing object-oriented software, guided by tests - By Steve Freemann & Nat Pryce
+- Growing object-oriented software, guided by tests - By Steve Freeman & Nat Pryce
 - Asynchronous Programming in Rust - By Carl Frederik Samson
 - Microservices Patterns: With examples in Java - By Chris Richardson
 - The Lean Startup - By Eric Ries
