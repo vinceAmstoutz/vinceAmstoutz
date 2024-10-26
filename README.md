@@ -2,7 +2,7 @@
 
 I'm collaborating on `open-source projects` like [API Platform]([url](https://api-platform.com/)), [Symfony]([url](https://symfony.com/)), [Sulu]([url](https://sulu.io/)), [AFUP website]([url](https://afup.org/home)) and some other projects.
 
-I’m currently working mainly on `PHP/Symfony projects`
+I’m currently working mainly on `PHP/Symfony projects`.
 
 #### 📚🆕 Recently read books (done)
 - Software Craft - TDD, Clean Code & other essential practices - By C. Martaire, A. Thiéfaine, D. Bartaguiz, F. Hiegel & H. Fakiih
