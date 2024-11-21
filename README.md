@@ -13,7 +13,7 @@ Hi there! 👋 I’m a backend engineer dedicated to creating high-quality, main
 <details>
 <summary>📊 Other stats</summary>
 
-- ![vinceAmstoutz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinceAmstoutz&theme=graywhite&hide_border=true)
+![vinceAmstoutz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinceAmstoutz&theme=graywhite&hide_border=true)
 
 </details>
 
