@@ -7,8 +7,15 @@ Hi there! 👋 I’m a backend engineer dedicated to creating high-quality, main
 
 ## 🚀 Open-Source Contributions  
 
-![vinceAmstoutz's Stats](https://github-readme-stats.vercel.app/api?username=vinceAmstoutz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![vinceAmstoutz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinceAmstoutz&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![vinceAmstoutz's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vinceAmstoutz)
+![vinceAmstoutz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinceAmstoutz&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
+<details>
+<summary>📊 Other stats</summary>
+
+- ![vinceAmstoutz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinceAmstoutz&theme=graywhite&hide_border=true)
+
+</details>
 
 I actively collaborate on projects that make a difference in the developer community, including:  
 - [API Platform](https://api-platform.com/)
