@@ -1,11 +1,15 @@
-# 👨‍💻 PHP/Symfony Web Developer  
+# 👨‍💻 PHP/Javascript Web Developer  
 **Passionate about Software Craftsmanship, Clean Code, Architecture, and DevOps**
 
-Hi there! 👋 I’m a backend engineer dedicated to creating high-quality, maintainable, and scalable software. My work is driven by a commitment to clean code principles, agile methodologies, and DevOps practices. I specialize in **PHP/Symfony** and contribute to the open-source community to share knowledge and grow alongside fellow developers.
+Hi there! 👋 I’m a backend engineer dedicated to creating high-quality, maintainable, and scalable software. My work is driven by a commitment to clean code principles, agile methodologies, and DevOps practices. I specialize in **PHP/Symfony** and **Javascript**, also use **Laravel**, and contribute to the open-source community to share knowledge and grow alongside fellow developers.
 
 ---
 
 ## 🚀 Open-Source Contributions  
+
+![vinceAmstoutz's Stats](https://github-readme-stats.vercel.app/api?username=vinceAmstoutz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![vinceAmstoutz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinceAmstoutz&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 I actively collaborate on projects that make a difference in the developer community, including:  
 - [API Platform](https://api-platform.com/)
 - [Symfony](https://symfony.com/)
