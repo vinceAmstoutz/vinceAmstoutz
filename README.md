@@ -21,6 +21,7 @@ I actively collaborate on projects that make a difference in the developer commu
 - [API Platform](https://api-platform.com/)
 - [Symfony](https://symfony.com/)
 - [FrankenPHP](https://frankenphp.dev/)
+- [Laravel](https://laravel.com)
 - [AFUP Website](https://afup.org/home)
 - [Sulu CMS](https://sulu.io/)  
 - ...and other exciting initiatives!
