@@ -19,8 +19,8 @@ Hi there! 👋 I’m a backend engineer dedicated to creating high-quality, main
 
 I actively collaborate on projects that make a difference in the developer community, including:  
 - [API Platform](https://api-platform.com/)
-- [Symfony](https://symfony.com/)
 - [FrankenPHP](https://frankenphp.dev/)
+- [Symfony](https://symfony.com/)
 - [Laravel](https://laravel.com)
 - [AFUP Website](https://afup.org/home)
 - [Sulu CMS](https://sulu.io/)  
