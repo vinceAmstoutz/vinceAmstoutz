@@ -71,7 +71,11 @@ Check out my repositories for projects and contributions I’m passionate about.
 
 <details>
 <summary>📚🕰️ Next Reads</summary>
-
+  
+- **Event-Driven Architecture in Golang**  
+  _By Michael Stack_  
+- **Unit Testing: Principles, Practices, and Patterns**  
+  _By Vladimir Khorikov_
 - **NoEstimates: How To Measure Project Progress Without Estimating**  
   _By Vasco Duarte_  
 - **Test-Driven Development by Example**  
