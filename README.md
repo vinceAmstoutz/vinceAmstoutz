@@ -71,7 +71,9 @@ Check out my repositories for projects and contributions I’m passionate about.
 
 <details>
 <summary>📚🕰️ Next Reads</summary>
-  
+
+- **100 Go Mistakes and How to Avoid Them**  
+_By Teiva Harsanyi_  
 - **Event-Driven Architecture in Golang**  
   _By Michael Stack_  
 - **Unit Testing: Principles, Practices, and Patterns**  
