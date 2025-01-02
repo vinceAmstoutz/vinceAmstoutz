@@ -3,6 +3,8 @@
 
 Hi there! 👋 I’m a backend engineer dedicated to creating high-quality, maintainable, and scalable software. My work is driven by a commitment to clean code principles, agile methodologies, and DevOps practices. I specialize in **PHP/Symfony** and **Javascript**, also use **Laravel**, and contribute to the open-source community to share knowledge and grow alongside fellow developers.
 
+I am a lifelong learner, now diving deep into **Go** and **Kubernetes**.
+
 ---
 
 ## 🚀 Open-Source Contributions  
