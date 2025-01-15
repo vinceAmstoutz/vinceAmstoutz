@@ -1,9 +1,10 @@
-# 👨‍💻 PHP/Javascript Web Developer  
-**Passionate about Software Craftsmanship, Clean Code, Architecture, and DevOps**
+# 👨‍💻 Senio Web Developer  
 
-Hi there! 👋 I’m a backend engineer dedicated to creating high-quality, maintainable, and scalable software. My work is driven by a commitment to clean code principles, agile methodologies, and DevOps practices. I specialize in **PHP/Symfony** and **Javascript**, also use **Laravel**, and contribute to the open-source community to share knowledge and grow alongside fellow developers.
+Hello there! 👋 I’m a backend engineer specializing in **PHP/Symfony** and **JavaScript**, with additional expertise in **Laravel**. 
 
-I am a lifelong learner, now diving deep into **Go** and **Kubernetes**.
+I'm passionate about contributing to the open-source community and sharing knowledge.
+
+Currently, I’m diving deep into **Go** and **Kubernetes**, expanding my skill set to embrace modern development and deployment practices.
 
 ### 🙌 Support My Open Source Work
 
