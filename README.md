@@ -4,7 +4,7 @@ Hello there! 👋 I’m a backend engineer specializing in **PHP/Symfony** and *
 
 I'm passionate about contributing to the open-source community and sharing knowledge.
 
-Currently, I’m diving deep into **Go** and **Kubernetes**, expanding my skill set to embrace modern development and deployment practices.
+Currently, I’m diving deep into **Go**, **Kubernetes** and Java.
 
 ### 🙌 Support My Open Source Work
 
