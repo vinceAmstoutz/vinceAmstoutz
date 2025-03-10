@@ -1,10 +1,10 @@
 # 👨‍💻 Senio Web Developer  
 
-Hello there! 👋 I’m a backend engineer specializing in **PHP/Symfony** and **JavaScript**, with additional expertise in **Laravel**. 
+Hello there! 👋 I’m a backend engineer specializing in **PHP/Symfony** and **JavaScript**, with additional skills in **Laravel**. 
 
 I'm passionate about contributing to the open-source community and sharing knowledge.
 
-Currently, I’m diving deep into **Go**, **Kubernetes** and Java.
+I’m diving deep into **Go** & **Kubernetes**.
 
 ### 🙌 Support My Open Source Work
 
