@@ -16,7 +16,6 @@ Your support helps me build and improve open-source projects 🙏 (see below).
 ## 🚀 Open-Source Contributions  
 
 ![vinceAmstoutz's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vinceAmstoutz)
-![vinceAmstoutz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinceAmstoutz&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
 <details>
 <summary>📊 Other stats</summary>
