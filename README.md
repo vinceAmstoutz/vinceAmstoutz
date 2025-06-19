@@ -17,21 +17,13 @@ Your support helps me build and improve open-source projects 🙏 (see below).
 
 ![vinceAmstoutz's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vinceAmstoutz)
 
-<details>
-<summary>📊 Other stats</summary>
-
-![vinceAmstoutz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinceAmstoutz&theme=graywhite&hide_border=true)
-
-</details>
-
 I actively collaborate on projects that make a difference in the developer community, including:  
 - [API Platform](https://api-platform.com/)
 - [FrankenPHP](https://frankenphp.dev/)
-- [Symfony](https://symfony.com/)
-- [Laravel](https://laravel.com)
+- [Symfony and Symfony documentation](https://symfony.com/)
 - [AFUP Website](https://afup.org/home)
 - [Sulu CMS](https://sulu.io/)  
-- ...and other exciting initiatives!
+- ...and other exciting projects!
 
 Check out my repositories for projects and contributions I’m passionate about.  
 
