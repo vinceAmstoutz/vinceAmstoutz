@@ -1,10 +1,8 @@
-# 👨‍💻 Senio Web Developer  
+# 👨‍💻 Senior Web Developer  
 
-Hello there! 👋 I’m a backend engineer specializing in **PHP/Symfony** and **JavaScript**, with additional skills in **Go**, **Kubernetes** and **Laravel**. 
+Hello there! 👋 I’m a backend engineer specializing in **PHP**, **Symfony** and **JavaScript**, with additional skills in **Go**, **Kubernetes** and **Laravel**. 
 
-I'm passionate about contributing to the open-source community and sharing knowledge.
-
-I’m diving deep into **AWS** & **Google Cloud**.
+I'm active in contributing to the OSS community and sharing knowledge by giving talks in both English and French.
 
 ### 🙌 Support My Open Source Work
 
@@ -17,16 +15,6 @@ Your support helps me build and improve open-source projects 🙏 (see below).
 
 ![vinceAmstoutz's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vinceAmstoutz)
 
-I actively collaborate on projects that make a difference in the developer community, including:  
-- [API Platform](https://api-platform.com/)
-- [FrankenPHP](https://frankenphp.dev/)
-- [Symfony and Symfony documentation](https://symfony.com/)
-- [AFUP Website](https://afup.org/home)
-- [Sulu CMS](https://sulu.io/)  
-- ...and other exciting projects!
-
-Check out my repositories for projects and contributions I’m passionate about.  
-
 ---
 
 ## 📖 My Reading Journey  
@@ -34,14 +22,16 @@ Check out my repositories for projects and contributions I’m passionate about.
 <details>
 <summary>📚📶 Currently Reading</summary>
 
-- **Clean Code: A Handbook of Agile Software Craftsmanship**  
-  _By Robert C. Martin_
+ **Implementing Domain-Driven Design**  
+  _By Vaughn Vernon & Eric Evans_  
 
 </details>
 
 <details>
 <summary>🏁 Completed Reads</summary>
 
+- **Clean Code: A Handbook of Agile Software Craftsmanship**  
+  _By Robert C. Martin_
 - **Software Craft: TDD, Clean Code & Other Essential Practices**  
   _By C. Martaire, A. Thiéfaine, D. Bartaguiz, F. Hiegel & H. Fakiih_  
 - **Clean Code in PHP**  
@@ -74,8 +64,6 @@ _By Teiva Harsanyi_
   _By Vasco Duarte_  
 - **Test-Driven Development by Example**  
   _By Kent Beck_  
-- **Implementing Domain-Driven Design**  
-  _By Vaughn Vernon & Eric Evans_  
 - **Refactoring to Patterns**  
   _By Joshua Kerievsky_  
 - **Refactoring: Improving the Design of Existing Code**  
@@ -104,7 +92,7 @@ _By Teiva Harsanyi_
 
 ## 📬 Reach Me  
 
-Feel free to reach out if you'd like to collaborate, discuss software craftsmanship, or just connect!  
+Feel free to contact me if you would like to collaborate, discuss, or get in touch! 👋
 
   -    vincent.amstoutz.dev[at]gmail.com
   -    [LinkedIn](https://www.linkedin.com/in/vincent-amstoutz/)
