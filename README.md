@@ -22,7 +22,7 @@ Your support helps me build and improve open-source projects 🙏 (see below).
 <details>
 <summary>📚📶 Currently Reading</summary>
 
- **Implementing Domain-Driven Design**  
+- **Implementing Domain-Driven Design**  
   _By Vaughn Vernon & Eric Evans_  
 
 </details>
