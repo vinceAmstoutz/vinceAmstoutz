@@ -1,19 +1,8 @@
-# 👨‍💻 Senior Web Developer  
-
-Hello there! 👋 I’m a backend engineer specializing in **PHP**, **Symfony** and **JavaScript**, with additional skills in **Go**, **Kubernetes** and **Laravel**. 
-
-I'm active in contributing to the OSS community and sharing knowledge by giving talks in both English and French.
 
 ### 🙌 Support My Open Source Work
 
 If you appreciate my contributions to the open-source community, consider supporting me through [GitHub Sponsors](https://github.com/sponsors/vinceAmstoutz). 
 Your support helps me build and improve open-source projects 🙏 (see below).
-
----
-
-## 🚀 Open-Source Contributions  
-
-![vinceAmstoutz's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vinceAmstoutz)
 
 ---
 
